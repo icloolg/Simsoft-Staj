@@ -1,1 +1,0 @@
-Bu proje, YOLOv8 modelini kullanarak video dosyaları üzerinde nesne algılama ve takip işlemleri gerçekleştiren bir Python uygulamasıdır. YOLOv8, hızlı ve doğru nesne tespiti sağlayan bir nesne algılama modelidir ve bu proje, modelin video üzerindeki nesneleri tanıyıp takip etme yeteneğini sergiler.
